@@ -1,0 +1,14 @@
+.cache
+.classpath
+.project
+.settings
+target
+.scala_dependencies
+.cache-main
+.cache-tests
+.tmpBin/
+.idea/
+*.iml
+*.html
+out/
+
